@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9828d477.css",
+    "main.js": "/static/js/main.a8c7b5d0.js",
+    "static/media/pic4.PNG": "/static/media/pic4.e39a2a3bd94f783d9748.PNG",
+    "static/media/Capture.PNG": "/static/media/Capture.ad8a991b73f1d2ba3a0e.PNG",
+    "static/media/pic1.PNG": "/static/media/pic1.610c084641e5aabaafef.PNG",
+    "static/media/pic2.PNG": "/static/media/pic2.2db430e0d5f9c0cd6a7b.PNG",
+    "static/media/payTax.PNG": "/static/media/payTax.67c6dce751194d98cec1.PNG",
+    "static/media/pic3.PNG": "/static/media/pic3.7a4ec1a3da7072749de5.PNG",
+    "static/media/Age.PNG": "/static/media/Age.0a63be0afa982588b971.PNG",
+    "static/media/Capture.jpg": "/static/media/Capture.dace8155fcb51b96a1fb.jpg",
+    "static/media/Calculator.PNG": "/static/media/Calculator.aabe4e0bc45097a2313e.PNG",
+    "static/media/design.PNG": "/static/media/design.1f66c99cdc374ba18480.PNG",
+    "static/media/Capture7.PNG": "/static/media/Capture7.e8530fcf77dd460ae47b.PNG",
+    "static/media/TicToc.PNG": "/static/media/TicToc.68edf52ae12a1f48b436.PNG",
+    "static/media/Capture6.PNG": "/static/media/Capture6.405dab35efd1636ccb23.PNG",
+    "static/media/Check.PNG": "/static/media/Check.913dfb0c183335eabc54.PNG",
+    "static/media/Dice.jpg": "/static/media/Dice.80388a8fe74c8e254b26.jpg",
+    "index.html": "/index.html",
+    "main.9828d477.css.map": "/static/css/main.9828d477.css.map",
+    "main.a8c7b5d0.js.map": "/static/js/main.a8c7b5d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9828d477.css",
+    "static/js/main.a8c7b5d0.js"
+  ]
+}

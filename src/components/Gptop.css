@@ -1,0 +1,12 @@
+#go-top{
+  margin-left: 90%;
+}
+
+#go-top:hover{
+    cursor: pointer;
+    color: rgb(252, 253, 255);
+}
+.arrow{
+  width: 25px;
+  height: 25px;
+}

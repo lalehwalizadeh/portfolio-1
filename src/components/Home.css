@@ -1,0 +1,38 @@
+.img {
+    /* width: 20rem;
+    height: 20rem; */
+    width: 330px;
+    height: 330px;
+    border-radius: 100%;
+    border: 4px;
+    margin: 20px;
+    border: 4px solid rgba(59, 138, 241, 0.461);
+
+}
+
+.side img {
+    display: block;
+}
+
+.side {
+
+    display: flex;
+    gap: 1.5rem;
+}
+
+.side .intro {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.side .pic img {
+    margin: 0 auto;
+
+}
+
+.hidden {
+    display: none;
+}

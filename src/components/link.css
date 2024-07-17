@@ -1,0 +1,7 @@
+.nav-link:hover{
+    color: rgb(8, 8, 8);
+    text-decoration: underline;
+    font-size: 16.5px;
+    transition: all 0.3s ease-in-out;
+    }
+    

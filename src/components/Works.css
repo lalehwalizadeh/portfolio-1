@@ -1,0 +1,101 @@
+*{
+  
+    justify-content: center;
+    box-sizing: border-box;
+}
+.pic-card{
+    width: 300px;
+    height: 400px;
+    margin: 5px;
+    border-radius: 10px;
+    display: inline-block;
+    justify-content: center;
+    position: relative;
+
+ 
+}
+
+.shadow{
+   margin-top:0 10px;
+}
+
+.IMG{
+  
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.IMG:hover{
+        transform: scale(1.04);
+        transition: all 0.2s ease-in;
+        
+}
+.worksTitle {
+   
+    padding:0 5px ;
+    margin: 5px;
+   
+}
+
+
+.efect{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 2px;
+    justify-content: space-evenly ;
+}
+.efect:hover{
+    cursor: pointer;
+    color: rgb(52, 117, 247);
+    text-decoration: underline;
+
+}
+ p ,a{
+    padding-left:10px ;
+    font-size: 12px;
+ }
+
+/* style of button in pagination  */
+
+#bot {
+    width: 40px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: rgba(28, 87, 187, 0.727);
+    color: #eee;
+    border-color: rgb(0, 128, 255);
+    border-radius: 10px ;
+    outline: 0;
+    margin: 30px 7px 0  0;
+    border: 1px solid ;
+  
+}
+#bot:active{
+    font-weight: 900;
+    border-color: black;
+    background-color: rgb(52, 117, 247);
+    color: #eee;
+}
+.bot{
+    display: flex;
+}
+
+.flip{
+	animation: span 2s linear;
+	
+}
+@keyframes span{
+	60%{
+	  transform: scale(1);
+	}
+	60%{
+		transform: scale(1.04);
+	  }
+}

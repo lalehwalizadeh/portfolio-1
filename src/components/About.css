@@ -1,0 +1,45 @@
+.div {
+  border-radius: 15px;
+
+  padding: 2%;
+  margin: 2%;
+  background-color: rgb(196, 214, 245);
+  line-height: 20px;
+
+
+}
+
+.aboutDiv {
+  border-radius: 10px;
+  padding: 10px;
+  border: 4px;
+  background-color: rgba(53, 133, 239, 0.71);
+  border: 2px solid rgba(7, 39, 80, 0.461);
+
+}
+
+.skillsDiv {
+  border-radius: 20px;
+  box-shadow: 0 0 0 0.2 black;
+  margin: 5px;
+  padding: 10px;
+  font-size: medium;
+  border-color: black;
+  background-color: rgba(27, 112, 223, 0.71);
+  border: 1.3px solid rgba(1, 19, 42, 0.461);
+  display: inline-block;
+}
+
+h1 {
+  text-align: left;
+
+}
+
+h4,
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+
+}
+
+

@@ -1,0 +1,93 @@
+body {
+  justify-content: center;
+  /* background-image: linear-gradient(rgba(20, 65, 142, 0.788), rgba(20, 65, 142, 0.797)) ; */
+  background-image: url('../Images/Capture.PNG');
+  background-color: rgba(24, 115, 234, 0.71);
+
+
+
+}
+  
+
+
+a{
+  text-decoration: none;
+}
+
+p {
+  text-align: right;
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: 700;
+  position: relative;
+
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&family=Cormorant+Upright:wght@500;700&family=Roboto:wght@700&display=swap');
+  font-family: 'Roboto', sans-serif;
+
+
+  /*   
+    font-family: 'Cormorant Garamond', serif;
+ 
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&display=swap'); */
+
+
+
+  }
+
+
+
+/* header */
+
+#header{
+  background-color: rgb(17, 57, 125);
+}
+
+
+/* footer */
+
+#footer {
+  background-color: rgb(17, 57, 125);
+  color: rgb(200, 211, 229);
+  text-align: center;
+  justify-content: center;
+  padding: 15px;
+  line-height: 3rem;
+}
+
+/* transition */
+
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease-out;
+}
+
+/*  */
+
+@media screen and (max-width: 786px) {
+  .side {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ma {
+    position: relative;
+    display: block;
+
+  }
+
+}
